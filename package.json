@@ -1,0 +1,11 @@
+{
+  "name": "discord-bcdicebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "sh start.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
